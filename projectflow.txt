@@ -1,0 +1,6 @@
+viveksawant100
+3MNiRpdmlvdViGHM
+
+
+
+mongodb+srv://viveksawant100:<db_password>@cluster0.mybzg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
